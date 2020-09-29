@@ -31,4 +31,7 @@ group :test do
   gem 'webdrivers'
 end
 
+gem 'jquery-rails'
+gem 'bootstrap', '~> 4.4.1'
+gem "haml-rails", "~> 2.0"
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
