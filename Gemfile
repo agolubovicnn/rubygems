@@ -31,6 +31,7 @@ group :test do
   gem 'webdrivers'
 end
 
+gem 'simple_form'
 gem 'font-awesome-sass', '~> 5.13.0'
 gem 'jquery-rails'
 gem 'bootstrap', '~> 4.4.1'
