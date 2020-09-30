@@ -31,6 +31,8 @@ group :test do
   gem 'webdrivers'
 end
 
+gem 'devise'
+gem 'faker'
 gem 'simple_form'
 gem 'font-awesome-sass', '~> 5.13.0'
 gem 'jquery-rails'
